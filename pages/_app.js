@@ -11,8 +11,8 @@ function MyApp({ Component, pageProps }) {
     return (
         <div>
             <Head>
-                <title>NFT Marketplace</title>
-                <meta name="description" content="NFT Marketplace" />
+                <title>Verdomi</title>
+                <meta name="description" content="Verdomi" />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
 
